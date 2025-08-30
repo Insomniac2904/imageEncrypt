@@ -34,7 +34,7 @@ To get started with PixelDust:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/AvijeetJain/pixelDust.git
+    git clone https://github.com/Insomniac2904/imageEncrypt.git
     ```
 
 2. **Navigate to the Project Directory**:
@@ -106,6 +106,6 @@ pixeldust --decrypt encryptedImage.png --key myKey.key --outputImageFileName dec
 
 ## Contributing
 
-Contributions are welcome! If you’d like to report an issue, suggest an improvement, or contribute code, please open a pull request or an issue on the [GitHub repository](https://github.com/AvijeetJain/pixelDust).
+Contributions are welcome! If you’d like to report an issue, suggest an improvement, or contribute code, please open a pull request or an issue on the [GitHub repository](https://github.com/Insomniac2904/imageEncrypt).
 
 ---

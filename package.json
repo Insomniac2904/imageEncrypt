@@ -6,7 +6,7 @@
 	"bin": {
 		"pixeldust": "index.js"
 	},
-	"author": "aviii <jainavijeet@gmail.com>",
+	"author": "adarsh <adarshkr2902@gmail.com>",
 	"keywords": [
 		"pixeldust",
 		"encrypt",
@@ -40,10 +40,10 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/AvijeetJain/pixelDust.git"
+		"url": "git+https://github.com/Insomniac2904/imageEncrypt"
 	},
 	"bugs": {
-		"url": "https://github.com/AvijeetJain/pixelDust/issues"
+		"url": "https://github.com/Insomniac2904/imageEncrypt"
 	},
-	"homepage": "https://github.com/AvijeetJain/pixelDust#readme"
+	"homepage": "https://github.com/Insomniac2904/imageEncrypt"
 }

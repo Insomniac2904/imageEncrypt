@@ -24,9 +24,9 @@ const { clear } = flags;
 
 	const chalk = (await import(`chalk`)).default;
 
-	// print Give it a star on github: https://github.com/AvijeetJain/pixelDust with chalk and bgMagenta
+	// print Give it a star on github: https://github.com/Insomniac2904/imageEncrypt with chalk and bgMagenta
 	console.log(
 		chalk.bgMagenta(` Give it a star on github: `) +
-			chalk.bold(` https://github.com/AvijeetJain/pixelDust `)
+			chalk.bold(` https://github.com/Insomniac2904/imageEncrypt`)
 	);
 })();

@@ -6,7 +6,7 @@ module.exports = ({ clear = true }) => {
 	unhandled();
 	welcome({
 		title: `pixelDust`,
-		tagLine: `by AvijeetJain`,
+		tagLine: `by Adarsh`,
 		description: pkg.description,
 		version: pkg.version,
 		bgColor: '#36BB09',
